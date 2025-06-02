@@ -1,0 +1,13 @@
+{
+  "config": {
+    "chainId": 893758,
+    "clique": {
+      "period": 5,
+      "epoch": 30000
+    }
+  },
+  "alloc": {},
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "difficulty": "1",
+  "gasLimit": "8000000"
+}
